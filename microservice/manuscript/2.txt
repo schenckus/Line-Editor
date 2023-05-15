@@ -1,0 +1,7 @@
+hi [note hi :)] 
+hello [hello] 
+my [hi] 
+ 
+REPLACE
+is
+hope [NOTE] 
