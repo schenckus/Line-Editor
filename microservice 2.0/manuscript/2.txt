@@ -1,0 +1,9 @@
+hi [note hi :)] 
+hello [hello] 
+ Hi this is the new line 
+ HELLO this is the new line text 
+my [hi] 
+ 
+REPLACE
+is
+hope [NOTE] 

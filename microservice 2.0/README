@@ -1,0 +1,13 @@
+                                              WELCOME TO LINE EDITOR
+Please read below for more information about how to request and receive data with this microservice
+
+
+1. REQUEST
+    Once the application is started, the user requests data by following a command line interface that will ask the user
+    a series of questions. This involves asking the user which manuscript they would like to access (which is currently
+    saved in local text files) and then asks the user whether they would like to add, remove, replace, or add a note to
+    a line.
+
+2. RECEIVE
+    Once the user goes through and requests the data, the system will print out the manuscript in it's entirety to make
+    sure the editing portion is done correctly.
